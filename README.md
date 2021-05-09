@@ -7,4 +7,4 @@ Before generating the completed map the "seed" will be displayed with each facti
 Progress of the map's generation will be printed until the map is fully generated.
 
 If the program is run from Python's Integrated Development and Learning Environment (IDLE) then the factions will be colored 1 of 7 colors.
-(an example of the colored territories is in this repository called example.png)
+![Example](/example.png)
