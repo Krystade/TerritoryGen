@@ -191,6 +191,7 @@ try:
     printGridColor()
 except AttributeError:
     printGrid()
+    input("Generation Complete. Press Enter to close.")
 #printGridFast()
     
 #for i in range(len(factionPos)):
